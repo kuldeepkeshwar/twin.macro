@@ -44,4 +44,14 @@ export default {
       from: 'goober',
     },
   },
+  'filbert-js': {
+    styled: {
+      import: 'styled',
+      from: '@filbert-js/macro',
+    },
+    css: {
+      import: 'css',
+      from: '@filbert-js/macro'
+    },
+  },
 }
